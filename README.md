@@ -2,7 +2,7 @@
 A simple Python program to convert units like:
 
 Kilometers ↔️ Miles
-Celsius ↔️ Fahrenheit
+Celsius ↔️ Fahrenheit ha
 Kilograms ↔️ Pounds
 
 How to Use:
